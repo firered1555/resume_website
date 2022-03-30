@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Daniel Saviet',
-  subHeading: 'Full Time Database Specialist, Aspiring Software Developer',
+  subHeading: 'Full Time Database Management Specialist, Aspiring Software Developer',
   // social
   socialLinks: [
     {
