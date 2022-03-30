@@ -13,16 +13,22 @@ module.exports = {
   // social
   socialLinks: [
     {
+      icon: 'fa-home',
+      name: 'LinkedIn',
+      url: 'https://www.linkedin.com/in/daniel-saviet-business-link',
+    }
+    ,
+    {
       icon: 'fa-github',
       name: 'Github',
       url: 'https://github.com/firered1555',
     },
     {
+
       icon: 'fa-envelope-o',
       name: 'Email',
       url: 'mailto:ds8653@desales.edu',
     },
   ],
   phone: '(570) 234-6556',
-  address: '305 Del Sol, Sunnyvale, CA',
 };
